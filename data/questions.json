@@ -1,0 +1,450 @@
+[
+{
+"id": 1,
+"cat": "sistema",
+"level": 1,
+"q": "Qual é o planeta mais próximo do Sol?",
+"options": [
+"Vénus",
+"Mercúrio",
+"Marte",
+"Terra"
+],
+"answer": 1,
+"why": "Mercúrio orbita a cerca de 58 milhões de km do Sol."
+},
+{
+"id": 2,
+"cat": "sistema",
+"level": 1,
+"q": "Qual é o maior planeta do Sistema Solar?",
+"options": [
+"Saturno",
+"Neptuno",
+"Júpiter",
+"Úrano"
+],
+"answer": 2,
+"why": "Júpiter tem mais de 11 vezes o diâmetro da Terra."
+},
+{
+"id": 3,
+"cat": "sistema",
+"level": 1,
+"q": "Qual é conhecido como o planeta vermelho?",
+"options": [
+"Júpiter",
+"Mercúrio",
+"Marte",
+"Neptuno"
+],
+"answer": 2,
+"why": "A cor vem do óxido de ferro (ferrugem) na superfície."
+},
+{
+"id": 4,
+"cat": "sistema",
+"level": 1,
+"q": "Que planeta é famoso pelos seus anéis?",
+"options": [
+"Saturno",
+"Marte",
+"Vénus",
+"Mercúrio"
+],
+"answer": 0,
+"why": "Os anéis de Saturno são feitos sobretudo de gelo e rocha."
+},
+{
+"id": 5,
+"cat": "sistema",
+"level": 1,
+"q": "Qual é o satélite natural da Terra?",
+"options": [
+"Fobos",
+"Lua",
+"Europa",
+"Titã"
+],
+"answer": 1,
+"why": "A Lua orbita a Terra a cerca de 384 000 km."
+},
+{
+"id": 6,
+"cat": "sistema",
+"level": 1,
+"q": "Qual é a estrela mais próxima da Terra?",
+"options": [
+"Sírius",
+"Alfa Centauro",
+"O Sol",
+"Betelgeuse"
+],
+"answer": 2,
+"why": "O Sol está a 150 milhões de km e é a nossa fonte de luz e calor."
+},
+{
+"id": 7,
+"cat": "sistema",
+"level": 2,
+"q": "Qual é o planeta mais quente do Sistema Solar?",
+"options": [
+"Mercúrio",
+"Vénus",
+"Marte",
+"Júpiter"
+],
+"answer": 1,
+"why": "Vénus tem uma atmosfera densa que prende o calor: cerca de 464 °C."
+},
+{
+"id": 8,
+"cat": "sistema",
+"level": 2,
+"q": "Em que planeta fica o Olympus Mons, o maior vulcão conhecido?",
+"options": [
+"Vénus",
+"Terra",
+"Marte",
+"Mercúrio"
+],
+"answer": 2,
+"why": "Tem cerca de 22 km de altura, quase o triplo do Evereste."
+},
+{
+"id": 9,
+"cat": "sistema",
+"level": 2,
+"q": "Quantos planetas tem o Sistema Solar?",
+"options": [
+"7",
+"8",
+"9",
+"10"
+],
+"answer": 1,
+"why": "Oito. Plutão é classificado como planeta anão."
+},
+{
+"id": 10,
+"cat": "sistema",
+"level": 2,
+"q": "Quanto tempo a luz do Sol demora a chegar à Terra?",
+"options": [
+"8 segundos",
+"8 minutos",
+"8 horas",
+"8 dias"
+],
+"answer": 1,
+"why": "Cerca de 8 minutos e 20 segundos."
+},
+{
+"id": 11,
+"cat": "sistema",
+"level": 2,
+"q": "O que é um asteroide?",
+"options": [
+"Uma estrela pequena",
+"Um corpo rochoso que orbita o Sol",
+"Um planeta gasoso",
+"Uma nuvem de gás"
+],
+"answer": 1,
+"why": "A maioria está na cintura entre Marte e Júpiter."
+},
+{
+"id": 12,
+"cat": "sistema",
+"level": 2,
+"q": "O que causa as marés nos oceanos da Terra?",
+"options": [
+"O Sol apenas",
+"Os ventos",
+"A gravidade da Lua e do Sol",
+"A rotação de Marte"
+],
+"answer": 2,
+"why": "A Lua é o principal factor, com ajuda do Sol."
+},
+{
+"id": 13,
+"cat": "sistema",
+"level": 3,
+"q": "Que planeta gira 'deitado', com o eixo inclinado cerca de 98°?",
+"options": [
+"Úrano",
+"Neptuno",
+"Saturno",
+"Vénus"
+],
+"answer": 0,
+"why": "Úrano rola quase de lado na sua órbita."
+},
+{
+"id": 14,
+"cat": "sistema",
+"level": 3,
+"q": "Que planeta tem os ventos mais rápidos do Sistema Solar?",
+"options": [
+"Júpiter",
+"Neptuno",
+"Saturno",
+"Marte"
+],
+"answer": 1,
+"why": "Os ventos de Neptuno passam dos 2 000 km/h."
+},
+{
+"id": 15,
+"cat": "sistema",
+"level": 3,
+"q": "Porque vemos sempre a mesma face da Lua?",
+"options": [
+"A Lua não roda",
+"A rotação da Lua dura o mesmo que a sua órbita",
+"A Terra tapa a outra face",
+"É uma ilusão de óptica"
+],
+"answer": 1,
+"why": "Chama-se rotação sincronizada."
+},
+{
+"id": 16,
+"cat": "exploracao",
+"level": 1,
+"q": "Quem foi o primeiro humano a pisar a Lua?",
+"options": [
+"Yuri Gagarin",
+"Buzz Aldrin",
+"Neil Armstrong",
+"John Glenn"
+],
+"answer": 2,
+"why": "Neil Armstrong, a 20 de Julho de 1969, na missão Apollo 11."
+},
+{
+"id": 17,
+"cat": "exploracao",
+"level": 1,
+"q": "Quem foi o primeiro humano no espaço?",
+"options": [
+"Yuri Gagarin",
+"Neil Armstrong",
+"Alan Shepard",
+"Valentina Tereshkova"
+],
+"answer": 0,
+"why": "Yuri Gagarin, em 1961, a bordo da Vostok 1."
+},
+{
+"id": 18,
+"cat": "exploracao",
+"level": 1,
+"q": "O que significa a sigla NASA?",
+"options": [
+"Administração Nacional de Aeronáutica e Espaço",
+"Agência Norte-Americana de Satélites",
+"Associação Nacional de Astronomia",
+"Administração Nacional de Astronautas"
+],
+"answer": 0,
+"why": "National Aeronautics and Space Administration."
+},
+{
+"id": 19,
+"cat": "exploracao",
+"level": 2,
+"q": "Que telescópio espacial observa em infravermelho desde 2021?",
+"options": [
+"Hubble",
+"James Webb",
+"Kepler",
+"Voyager"
+],
+"answer": 1,
+"why": "O James Webb observa as primeiras galáxias e atmosferas de exoplanetas."
+},
+{
+"id": 20,
+"cat": "exploracao",
+"level": 2,
+"q": "Como se chama a estação onde astronautas vivem em órbita da Terra?",
+"options": [
+"Mir 2",
+"Estação Espacial Internacional",
+"Apollo Base",
+"Skylab 2"
+],
+"answer": 1,
+"why": "A ISS orbita a ~400 km de altitude e dá a volta à Terra em ~90 minutos."
+},
+{
+"id": 21,
+"cat": "exploracao",
+"level": 2,
+"q": "Que rover da NASA aterrou em Marte em 2021?",
+"options": [
+"Curiosity",
+"Opportunity",
+"Perseverance",
+"Sojourner"
+],
+"answer": 2,
+"why": "O Perseverance procura sinais de vida antiga na cratera Jezero."
+},
+{
+"id": 22,
+"cat": "exploracao",
+"level": 3,
+"q": "Que sonda da NASA entrou no espaço interestelar em 2012?",
+"options": [
+"Voyager 1",
+"Pioneer 10",
+"Cassini",
+"New Horizons"
+],
+"answer": 0,
+"why": "A Voyager 1 foi lançada em 1977 e é o objecto humano mais distante."
+},
+{
+"id": 23,
+"cat": "exploracao",
+"level": 3,
+"q": "Em que ano foi lançado o telescópio espacial Hubble?",
+"options": [
+"1969",
+"1981",
+"1990",
+"2003"
+],
+"answer": 2,
+"why": "Foi lançado em 1990 e continua a observar o universo."
+},
+{
+"id": 24,
+"cat": "universo",
+"level": 1,
+"q": "Qual é a galáxia onde vivemos?",
+"options": [
+"Andrómeda",
+"Via Láctea",
+"Triângulo",
+"Sombreiro"
+],
+"answer": 1,
+"why": "O Sistema Solar fica num braço espiral da Via Láctea."
+},
+{
+"id": 25,
+"cat": "universo",
+"level": 2,
+"q": "O que é um ano-luz?",
+"options": [
+"Uma unidade de tempo",
+"Uma unidade de distância",
+"Uma unidade de brilho",
+"Uma unidade de massa"
+],
+"answer": 1,
+"why": "É a distância que a luz percorre num ano: ~9,46 biliões de km."
+},
+{
+"id": 26,
+"cat": "universo",
+"level": 2,
+"q": "O que é um buraco negro?",
+"options": [
+"Um planeta escuro",
+"Uma região onde a gravidade é tão forte que nem a luz escapa",
+"Uma estrela fria",
+"Um vazio sem matéria"
+],
+"answer": 1,
+"why": "Forma-se, por exemplo, quando estrelas muito massivas colapsam."
+},
+{
+"id": 27,
+"cat": "universo",
+"level": 2,
+"q": "O que provoca as auroras polares?",
+"options": [
+"Reflexo do gelo",
+"Partículas do Sol a interagir com o campo magnético da Terra",
+"Relâmpagos",
+"Luz da Lua"
+],
+"answer": 1,
+"why": "As partículas excitam gases da atmosfera e produzem luz."
+},
+{
+"id": 28,
+"cat": "universo",
+"level": 2,
+"q": "O que é um cometa?",
+"options": [
+"Bola de gelo e poeira que forma cauda perto do Sol",
+"Uma estrela cadente",
+"Um satélite artificial",
+"Um planeta anão"
+],
+"answer": 0,
+"why": "A cauda aponta sempre para longe do Sol."
+},
+{
+"id": 29,
+"cat": "universo",
+"level": 2,
+"q": "De que é feito principalmente o Sol?",
+"options": [
+"Ferro e níquel",
+"Hidrogénio e hélio",
+"Oxigénio e azoto",
+"Carbono e silício"
+],
+"answer": 1,
+"why": "Cerca de 73% de hidrogénio e 25% de hélio."
+},
+{
+"id": 30,
+"cat": "universo",
+"level": 3,
+"q": "Qual é a grande galáxia mais próxima da Via Láctea?",
+"options": [
+"Andrómeda",
+"Sombreiro",
+"Whirlpool",
+"Cata-vento"
+],
+"answer": 0,
+"why": "Andrómeda está a ~2,5 milhões de anos-luz e aproxima-se de nós."
+},
+{
+"id": 31,
+"cat": "universo",
+"level": 3,
+"q": "Qual é a idade aproximada do universo?",
+"options": [
+"4,6 mil milhões de anos",
+"13,8 mil milhões de anos",
+"100 milhões de anos",
+"1 bilião de anos"
+],
+"answer": 1,
+"why": "Cerca de 13,8 mil milhões de anos desde o Big Bang."
+},
+{
+"id": 32,
+"cat": "universo",
+"level": 3,
+"q": "O que é uma supernova?",
+"options": [
+"Uma estrela a nascer",
+"A explosão de uma estrela massiva no fim da vida",
+"Um cometa muito brilhante",
+"Uma galáxia nova"
+],
+"answer": 1,
+"why": "Brilha mais do que uma galáxia inteira durante semanas."
+}
+]

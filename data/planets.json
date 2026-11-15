@@ -1,0 +1,98 @@
+[
+{
+"name": "Mercúrio",
+"color": "#b1a8a0",
+"size": 14,
+"diam": "4 879 km",
+"day": "59 dias terrestres",
+"year": "88 dias",
+"temp": "167 °C (média)",
+"g": 0.38,
+"q": "Mercury MESSENGER planet",
+"fact": "Tem temperaturas entre -180 °C e 430 °C."
+},
+{
+"name": "Vénus",
+"color": "#e6c38a",
+"size": 22,
+"diam": "12 104 km",
+"day": "243 dias terrestres",
+"year": "225 dias",
+"temp": "464 °C",
+"g": 0.91,
+"q": "Venus planet Magellan",
+"fact": "Gira ao contrário da maioria dos planetas e um dia dura mais do que o seu ano."
+},
+{
+"name": "Terra",
+"color": "#4f8fe8",
+"size": 24,
+"diam": "12 742 km",
+"day": "24 horas",
+"year": "365 dias",
+"temp": "15 °C (média)",
+"g": 1.0,
+"q": "Earth Blue Marble",
+"fact": "É o único corpo onde se conhece vida."
+},
+{
+"name": "Marte",
+"color": "#d4684a",
+"size": 18,
+"diam": "6 779 km",
+"day": "24 h 37 min",
+"year": "687 dias",
+"temp": "-65 °C (média)",
+"g": 0.38,
+"q": "Mars Perseverance rover",
+"fact": "Tem o Olympus Mons, o maior vulcão conhecido do Sistema Solar."
+},
+{
+"name": "Júpiter",
+"color": "#d9a77a",
+"size": 52,
+"diam": "139 820 km",
+"day": "10 horas",
+"year": "11,9 anos",
+"temp": "-110 °C (nuvens)",
+"g": 2.53,
+"q": "Jupiter Juno",
+"fact": "A Grande Mancha Vermelha é uma tempestade com séculos."
+},
+{
+"name": "Saturno",
+"color": "#e3cf9b",
+"size": 46,
+"diam": "116 460 km",
+"day": "10,7 horas",
+"year": "29,5 anos",
+"temp": "-140 °C (nuvens)",
+"g": 1.07,
+"q": "Saturn Cassini rings",
+"fact": "Seria o único planeta a flutuar na água, por ser pouco denso."
+},
+{
+"name": "Úrano",
+"color": "#8fd8e0",
+"size": 34,
+"diam": "50 724 km",
+"day": "17 horas",
+"year": "84 anos",
+"temp": "-195 °C",
+"g": 0.89,
+"q": "Uranus Voyager",
+"fact": "Gira deitado, com o eixo inclinado cerca de 98°."
+},
+{
+"name": "Neptuno",
+"color": "#4b6fe0",
+"size": 33,
+"diam": "49 244 km",
+"day": "16 horas",
+"year": "165 anos",
+"temp": "-200 °C",
+"g": 1.14,
+"q": "Neptune Voyager",
+"fact": "Tem os ventos mais rápidos do Sistema Solar."
+}
+]

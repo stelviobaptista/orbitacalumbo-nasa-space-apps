@@ -1,0 +1,328 @@
+[
+{
+"id": 1,
+"titulo": "Missão 01: Marte",
+"subtitulo": "Descobre as características do planeta vermelho",
+"cor": "#d4684a",
+"duracao": "15 min",
+"problema": "Marte é o planeta mais explorado por robôs. Será que poderíamos viver lá? Investiga as características do planeta vermelho e descobre o que mudaria na tua vida.",
+"cards": [
+{
+"t": "Tamanho",
+"x": "Marte tem cerca de 6 779 km de diâmetro, aproximadamente metade da Terra."
+},
+{
+"t": "Gravidade",
+"x": "A gravidade à superfície é 3,71 m/s², cerca de 38% da terrestre. Pesarias muito menos."
+},
+{
+"t": "Temperatura",
+"x": "A temperatura média é cerca de -65 °C e muda muito entre o dia e a noite."
+},
+{
+"t": "Atmosfera",
+"x": "É muito fina e feita sobretudo de dióxido de carbono. Não se pode respirar."
+},
+{
+"t": "Dia e ano",
+"x": "Um dia marciano dura cerca de 24 h 37 min. O ano dura 687 dias terrestres."
+}
+],
+"experiencia": {
+"tipo": "globo",
+"corpo": "marte",
+"titulo": "Explora Marte em 3D",
+"texto": "Roda o planeta, compara-o com a Terra e muda a massa para ver o peso em Marte."
+},
+"desafio": {
+"texto": "Uma pessoa tem 50 kg de massa. Quantos quilos marcaria uma balança calibrada na Terra se ela se pesasse em Marte? (arredonda às unidades)",
+"tipo": "numero",
+"unidade": "kg",
+"dica": "Multiplica a massa pela razão entre a gravidade de Marte (3,71) e a da Terra (9,81).",
+"esperado": 18.9,
+"tolerancia": 0.6,
+"explicacao": "50 × 3,71 ÷ 9,81 ≈ 18,9 kg. A massa continua a ser 50 kg, mas o peso é cerca de 38% do da Terra."
+},
+"avaliacao": [
+{
+"q": "Qual é a gravidade aproximada de Marte comparada com a da Terra?",
+"o": [
+"Cerca de 38%",
+"Cerca de 100%",
+"Cerca de 10%",
+"Cerca de 250%"
+],
+"r": 0,
+"porque": "Marte tem 3,71 m/s², cerca de 38% dos 9,81 m/s² da Terra."
+},
+{
+"q": "Porque é que não podemos respirar na atmosfera de Marte?",
+"o": [
+"É muito fina e feita sobretudo de dióxido de carbono",
+"Tem oxigénio a mais",
+"É feita de água",
+"Marte não tem atmosfera"
+],
+"r": 0,
+"porque": "A atmosfera de Marte é cerca de 95% dióxido de carbono e muito pouco densa."
+},
+{
+"q": "Quanto dura aproximadamente o ano de Marte?",
+"o": [
+"687 dias terrestres",
+"365 dias",
+"88 dias",
+"12 anos"
+],
+"r": 0,
+"porque": "Marte está mais longe do Sol e demora 687 dias terrestres a dar uma volta."
+}
+]
+},
+{
+"id": 2,
+"titulo": "Missão 02: Gravidade lunar",
+"subtitulo": "Compreende porque se salta tanto na Lua",
+"cor": "#c9c9d0",
+"duracao": "15 min",
+"problema": "Os astronautas da Apollo davam saltos enormes na Lua. Porquê? Descobre como a gravidade muda o movimento dos objectos.",
+"cards": [
+{
+"t": "Gravidade da Lua",
+"x": "É 1,62 m/s², cerca de um sexto da gravidade da Terra."
+},
+{
+"t": "Sem atmosfera",
+"x": "Na Lua não há ar para travar os objectos. Tudo cai sem resistência do ar."
+},
+{
+"t": "Massa menor",
+"x": "A Lua tem cerca de 1,2% da massa da Terra, por isso atrai menos."
+},
+{
+"t": "Peso de um astronauta",
+"x": "Um astronauta de 80 kg na Terra pesaria como se tivesse cerca de 13 kg na Lua."
+},
+{
+"t": "Martelo e pena",
+"x": "Em 1971, na missão Apollo 15, David Scott largou um martelo e uma pena e caíram ao mesmo tempo."
+}
+],
+"experiencia": {
+"tipo": "lancamento",
+"a": "terra",
+"b": "lua",
+"v": 10,
+"ang": 45,
+"titulo": "Lança uma bola na Terra e na Lua",
+"texto": "Lança a mesma bola com a mesma velocidade nos dois mundos e compara o alcance."
+},
+"desafio": {
+"texto": "Lanças uma bola a 10 m/s com um ângulo de 45° na Lua (g = 1,62 m/s²). Qual é o alcance, em metros, no chão plano?",
+"tipo": "numero",
+"unidade": "m",
+"dica": "Alcance = v² × sen(2θ) ÷ g. Com 45°, sen(90°) = 1.",
+"esperado": 61.7,
+"tolerancia": 2.5,
+"explicacao": "100 × 1 ÷ 1,62 ≈ 61,7 m. Na Terra, o mesmo lançamento chega só a cerca de 10,2 m."
+},
+"avaliacao": [
+{
+"q": "Porque é que um martelo e uma pena caem juntos na Lua?",
+"o": [
+"Não há atmosfera que trave a pena",
+"A pena fica mais pesada",
+"A Lua não tem gravidade",
+"Eles não caem"
+],
+"r": 0,
+"porque": "Sem ar, todos os objectos caem com a mesma aceleração."
+},
+{
+"q": "A gravidade da Lua é cerca de...",
+"o": [
+"1/6 da da Terra",
+"metade da da Terra",
+"igual à da Terra",
+"o dobro da da Terra"
+],
+"r": 0,
+"porque": "1,62 m/s² contra 9,81 m/s²."
+},
+{
+"q": "Com menos gravidade, um salto na Lua é...",
+"o": [
+"Mais alto e mais longo",
+"Mais baixo",
+"Igual ao da Terra",
+"Impossível"
+],
+"r": 0,
+"porque": "Com menos gravidade, o objecto demora mais a subir e a descer."
+}
+]
+},
+{
+"id": 3,
+"titulo": "Missão 03: Água noutros mundos",
+"subtitulo": "Investiga onde pode existir água líquida",
+"cor": "#29d3f5",
+"duracao": "15 min",
+"problema": "A água líquida é essencial para a vida que conhecemos. Em que outros mundos pode existir? Investiga as condições necessárias.",
+"cards": [
+{
+"t": "Zona habitável",
+"x": "É a região à volta de uma estrela onde a temperatura permite água líquida à superfície."
+},
+{
+"t": "Marte",
+"x": "Tem calotes de gelo nos pólos e sinais de rios e lagos antigos."
+},
+{
+"t": "Lua",
+"x": "Há gelo de água em crateras dos pólos que nunca recebem luz do Sol."
+},
+{
+"t": "Europa",
+"x": "É uma lua de Júpiter. Há fortes indícios de um oceano de água líquida debaixo da crosta de gelo."
+},
+{
+"t": "Encélado",
+"x": "É uma lua de Saturno. Jactos de vapor e gelo de água saem do pólo sul."
+}
+],
+"experiencia": {
+"tipo": "termometro",
+"titulo": "O termómetro da água",
+"texto": "Vê onde cada mundo fica na escala de temperatura e toca num para saber mais."
+},
+"desafio": {
+"texto": "À pressão da Terra, a água é líquida entre 0 °C e 100 °C. Qual destes mundos tem temperatura média nesse intervalo?",
+"tipo": "escolha",
+"opcoes": [
+"Vénus (464 °C)",
+"Terra (15 °C)",
+"Marte (-65 °C)",
+"Neptuno (-200 °C)"
+],
+"dica": "Procura o único valor entre 0 e 100.",
+"esperado": 1,
+"explicacao": "A Terra, com 15 °C de média, é o único que fica no intervalo. Por isso tem oceanos."
+},
+"avaliacao": [
+{
+"q": "À pressão da Terra, a água líquida existe entre...",
+"o": [
+"0 °C e 100 °C",
+"-100 °C e 0 °C",
+"100 °C e 500 °C",
+"Em qualquer temperatura"
+],
+"r": 0,
+"porque": "Abaixo de 0 °C é gelo e acima de 100 °C é vapor."
+},
+{
+"q": "Onde há indícios de um oceano debaixo do gelo?",
+"o": [
+"Em Europa, lua de Júpiter",
+"Em Mercúrio",
+"No Sol",
+"Em Vénus"
+],
+"r": 0,
+"porque": "Observações apontam para um oceano de água líquida sob a crosta de Europa."
+},
+{
+"q": "Porque é que Vénus não tem água líquida à superfície?",
+"o": [
+"É demasiado quente",
+"É demasiado fria",
+"Não tem atmosfera",
+"Está longe do Sol"
+],
+"r": 0,
+"porque": "A superfície de Vénus tem cerca de 464 °C, quente demais para água líquida."
+}
+]
+},
+{
+"id": 4,
+"titulo": "Missão 04: Expedição a Júpiter",
+"subtitulo": "Constrói uma missão imaginária ao gigante do Sistema Solar",
+"cor": "#d9a77a",
+"duracao": "20 min",
+"problema": "Constrói uma missão imaginária a Júpiter. Com que velocidade viajas, quanto tempo demoras a chegar e que perigos vais enfrentar?",
+"cards": [
+{
+"t": "Distância",
+"x": "Em média, Júpiter está a cerca de 778 milhões de km do Sol, ou seja, 5,2 vezes a distância da Terra ao Sol."
+},
+{
+"t": "Gigante gasoso",
+"x": "Júpiter não tem superfície sólida. É feito sobretudo de hidrogénio e hélio."
+},
+{
+"t": "Gravidade",
+"x": "Nas nuvens, a gravidade é de 24,79 m/s², cerca de 2,5 vezes a da Terra."
+},
+{
+"t": "Radiação",
+"x": "O campo magnético de Júpiter cria cinturas de radiação muito intensas à sua volta."
+},
+{
+"t": "Comunicações",
+"x": "Os sinais de rádio demoram, em média, cerca de 43 minutos a chegar de Júpiter à Terra."
+}
+],
+"experiencia": {
+"tipo": "construtor",
+"destino": "jupiter",
+"titulo": "Constrói a tua missão",
+"texto": "Escolhe a velocidade da nave e vê quanto tempo demora a viagem. Depois abre o simulador 3D."
+},
+"desafio": {
+"texto": "Uma nave viaja a 20 km/s em linha recta. Quantos dias demora a percorrer 778 milhões de km? (arredonda às unidades)",
+"tipo": "numero",
+"unidade": "dias",
+"dica": "Tempo = distância ÷ velocidade. Depois converte segundos em dias (1 dia = 86 400 s).",
+"esperado": 450,
+"tolerancia": 8,
+"explicacao": "778 000 000 ÷ 20 = 38,9 milhões de segundos, cerca de 450 dias. Na prática, as sondas fazem trajectórias curvas e demoram mais."
+},
+"avaliacao": [
+{
+"q": "Júpiter tem superfície sólida?",
+"o": [
+"Não, é um gigante gasoso",
+"Sim, é rochoso",
+"Sim, é coberto de gelo",
+"Só nos pólos"
+],
+"r": 0,
+"porque": "É feito sobretudo de hidrogénio e hélio, sem superfície sólida."
+},
+{
+"q": "Quanto tempo demora um sinal de rádio de Júpiter à Terra, em média?",
+"o": [
+"Cerca de 43 minutos",
+"Cerca de 8 minutos",
+"Cerca de 4 segundos",
+"Cerca de 2 dias"
+],
+"r": 0,
+"porque": "A distância média é de 5,2 UA e a luz demora cerca de 8,3 minutos por UA."
+},
+{
+"q": "Se a nave for mais rápida, a viagem...",
+"o": [
+"Demora menos tempo",
+"Demora mais tempo",
+"A distância diminui",
+"Fica igual"
+],
+"r": 0,
+"porque": "Tempo = distância ÷ velocidade, por isso mais velocidade dá menos tempo."
+}
+]
+}
+]
